@@ -1,0 +1,12 @@
+Data Source=JUANLUIS-PC\NEOSERVER;Initial Catalog=Concormarket;User ID=sa;Password=Juan2022**L
+La connecion a la base de datos
+
+Usuario: sa
+clave: Juan2022**L
+
+
+credenciales de login de sistema web
+
+Usuario: Admin
+clave: Admin
+
